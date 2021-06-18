@@ -8,8 +8,8 @@ Gem::Specification.new do |spec|
   spec.version       = CocoapodsTest_plugin::VERSION
   spec.authors       = ['haoyuhong']
   spec.email         = ['haoyh02@rd.netease.com']
-  spec.description   = %q{A short description of cocoapods-test_plugin.}
-  spec.summary       = %q{A longer description of cocoapods-test_plugin.}
+  spec.description   = %q{fist test cocoapods plugin.}
+  spec.summary       = %q{just a test}
   spec.homepage      = 'https://github.com/EXAMPLE/cocoapods-test_plugin'
   spec.license       = 'MIT'
 
